@@ -2,7 +2,5 @@ bs4 >= 0.0.1
 requests >= 2.0.0
 pyfiglet
 geoip2
-tkinter
-python3-tk
 platform
 webview==0.1.5
